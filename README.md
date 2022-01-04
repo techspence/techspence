@@ -1,6 +1,3 @@
-![githubprofile](https://user-images.githubusercontent.com/7014376/109020320-dddf6600-7687-11eb-8518-ff3cf9c3ddc8.png)
-
-
 <p align="center">
   <a href="https://twitter.com/techspence"><img src="https://img.shields.io/twitter/url?label=Twitter&style=social&url=https%3A%2F%2Ftwitter.com%2Ftechspence" alt="Twitter"></a>
   <a href="https://www.linkedin.com/in/spenceralessi"><img src="https://img.shields.io/badge/LinkedIn--_.svg?style=social&logo=linkedin" alt="LinkedIn"></a>
